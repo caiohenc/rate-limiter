@@ -1,4 +1,0 @@
-# Arquivos ignorados
-.idea/            # Diretório da IDE (se usar JetBrains)
-vendor/           # Dependências do Go (opcional)
-*.log             # Logs
